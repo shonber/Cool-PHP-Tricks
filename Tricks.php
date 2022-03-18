@@ -6,4 +6,4 @@ Explanation:
 echo ==> Printing data.
 (isset($_GET["param"]) ? ==> This is the condition of the if-statement.
  "The parameter exists" : ==> If the condition is true this will execute (before the colon).
- "No such parameter"); : ==> If the condition is false this will execute (after the colon).
+ "No such parameter"); ==> If the condition is false this will execute (after the colon).
